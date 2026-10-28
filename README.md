@@ -13,10 +13,10 @@ Analisar o desempenho comercial por meio de:
 
 **Conceito importante:** o indicador de valor comercializado soma preços dos produtos de **pedidos entregues**, sem frete. Não é receita contábil da Olist, faturamento líquido nem lucro. O nome `receita` aparece na discussão comercial como **valor de vendas de produtos**.
 
-## Vídeo executiva
+## Vídeo executivo
 Vídeo YouTube: https://www.youtube.com/watch?v=AxX04mmgn8E
 
-## Vídeo executiva
+## Apresentação e Relatório executivo
 Estará no /entregaveis
 
 ## Quais arquivos usar
