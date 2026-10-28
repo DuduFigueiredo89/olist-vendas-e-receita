@@ -6,3 +6,6 @@ data/raw/*.csv
 outputs/graficos/*.png
 outputs/tabelas/*.csv
 outputs/resumo_comercial.md
+# Videos de apresentacao
+*.mkv
+*.mp4
